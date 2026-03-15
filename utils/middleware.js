@@ -1,4 +1,3 @@
-const { response, request } = require('../app')
 const logger = require('./logger')
 const User = require('../models/user')
 const jwt = require('jsonwebtoken')
