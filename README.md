@@ -198,4 +198,4 @@ docker run \
 
 ## License
 
-This project is available under the MIT License.
+This project is available under the MIT License. See LICENSE file for details.
